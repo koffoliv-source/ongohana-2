@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ongohana.org/sitemap.xml
+Sitemap: https://koffoliv-source.github.io/ongohana-2/sitemap.xml
