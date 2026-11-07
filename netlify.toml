@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "https://www.ongohana.org/*"
+  to = "https://ongohana.org/:splat"
+  status = 301
+  force = true
